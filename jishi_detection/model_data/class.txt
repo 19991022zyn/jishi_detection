@@ -1,0 +1,17 @@
+front_wear
+front_no_wear
+front_under_nose_wear
+front_under_mouth_wear
+front_unknown
+side_wear
+side_no_wear
+side_under_nose_wear
+side_under_mouth_wear
+side_unknown
+back_head
+mask_front_wear
+mask_front_under_nose_wear
+mask_front_under_mouth_wear
+mask_side_wear
+mask_side_under_nose_wear
+mask_side_under_mouth_wear
